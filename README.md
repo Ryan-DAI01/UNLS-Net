@@ -1,3 +1,4 @@
 # UNLS-Net
 
-The WLSD dataset will be released soon.
+The complete WLSD dataset will be released soon.
+Some data samples are shown under the folder "examples".
